@@ -5,7 +5,7 @@
 
 Необходимо реализовать приложение с корневыми экранами ЧекСкана
 * Скетч файл: https://github.com/MatveyMalatsion/checkscantest/blob/master/CheckScan.sketch
-* База: http://212.47.248.32:8080/api/v2.1/swagger-ui.html
+* Спецификация API: http://212.47.248.32:8080/api/v2.1/swagger-ui.html
 
 
 ##### БАЗОВЫЕ ТРЕБОВАНИЯ
